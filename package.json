@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "simple-git": "3.15.0"
+    "http-cache-semantics": "4.1.0"
   },
   "engines": {
     "node": "4.0.0"
