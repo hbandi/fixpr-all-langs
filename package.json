@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "jsonpointer": "4.0.1"
+    "simple-git": "1.132.0"
   },
   "engines": {
     "node": "4.0.0"
