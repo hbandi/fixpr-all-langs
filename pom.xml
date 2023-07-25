@@ -4,7 +4,7 @@
     <parent>
         <groupId>com.salesforce.sconems</groupId>
         <artifactId>scone-ms-service-parent</artifactId>
-        <version>10.0.0</version>
+        <version>10.1.0</version>
         <relativePath/>
     </parent>
     <groupId>com.salesforce.rule.engine</groupId>
@@ -60,7 +60,7 @@
         <dependency>
             <groupId>org.drools</groupId>
             <artifactId>drools-core</artifactId>
-            <version>7.0.0.Final</version>
+            <version>7.25.0.Final</version>
         </dependency>
         <dependency>
             <groupId>org.kie</groupId>
