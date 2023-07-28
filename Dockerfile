@@ -1,4 +1,4 @@
-FROM docker.io/library/openjdk:89
+FROM docker.io/library/openjdk:46
 
 #LABEL maintainer ast-dev@salesforce.com
 LABEL pipeline_args=$pipeline_args
